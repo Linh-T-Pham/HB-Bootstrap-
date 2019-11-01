@@ -1,0 +1,22 @@
+#navar {
+    background-color: #7ba112;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.front-img {
+  margin: auto;
+  width: 353px;
+  padding-top: 50px;
+}
+
+.front-p {
+    font-size: 10px;
+}
